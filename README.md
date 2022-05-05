@@ -8,7 +8,7 @@ I’m interested in windows application development. I’m currently studding B.
 
 * 🌍  I'm based in India
 * 🧠  I'm learning ASP.NET MVC 5, Fluent API
-* 🤝  I'm open to collaborating on .NET Projects
+* 🤝  I'm open to collaborating on .NET Projects and UI Designing 
 
 ### Skills
 
